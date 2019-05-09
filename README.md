@@ -76,7 +76,9 @@
 
 	- Change label visibility to hidden
 
-19. Remove excess div containers from layout file: 'themes/theme_name/templates/field'
+19. Create 'field.html.twig' file: 'core/themes/stable/templates/field' into 'themes/theme_name/templates/field'
+
+20. Remove excess div containers from layout file: 'themes/theme_name/templates/field'
 
 20. Create 'gulp' folder in root
 
